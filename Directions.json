@@ -1,0 +1,13 @@
+{
+	"type": "HKCategoryTypeIdentifierSleepAnalysis",
+	"source_name": "iPhone",
+	"source_version": "15.4.1",
+	"creation_date": "2022-04-30 09:58:37 +0330",
+	"start_date": "2022-04-30 09:50:53 +0330",
+	"end_date": "2022-04-30 09:58:37 +0330",
+	"value": "HKCategoryValueSleepAnalysisInBed",
+	"metadata": {
+		"key": "HKTimeZone",
+		"value": "Asia/Tehran"
+	}
+}
